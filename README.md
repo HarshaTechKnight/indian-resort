@@ -5,7 +5,7 @@ Welcome to the **Shanti Dham - Indian Resort Landing Page** project — a beauti
 
 ## 🌐 Live Preview
 
-*(Add your live demo URL here)*
+*[(Shanti Dham)](https://indian-resort.vercel.app/)*
 
 ---
 
